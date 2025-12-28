@@ -27,4 +27,5 @@ processos (cálculo de valores, interação com o usuário e manipulação de ar
 
 
 ## Como executar
-```bash python main.py
+
+'''bash python main.py
